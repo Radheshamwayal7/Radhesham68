@@ -24,24 +24,8 @@ Heyy I'm Radhesham Wayal
 - VS Code
 - PostgreSQL
 - Windows
-  
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhesham68&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhesham68&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Radhesham68&theme=tokyonight)
-
 
 - 📫 Connect With Me
-- ## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Radhesham68&color=blue&style=for-the-badge)
 
 - 📧 Email: **shamwayal7@gmail.com**
 - 🐙 GitHub: **github.com/Radheshamwayal7**
