@@ -34,6 +34,7 @@ Heyy I'm Radhesham Wayal
 - 📧 Email: **shamwayal7@gmail.com**
 - 🐙 GitHub: **github.com/Radheshamwayal7**
 - 💼 LinkedIn: **www.linkedin.com/in/radheshyam-wayal-203ab3416**
+- 📸 Instagram: **https://www.instagram.com/___sham.68/**
 
 ---
 
