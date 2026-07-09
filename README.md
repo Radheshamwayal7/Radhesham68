@@ -55,4 +55,4 @@ I'm always eager to learn, create, and grow as a developer. Feel free to explore
 
 ---
 
-⭐ Thanks for visiting my profile! Happy Coding! 🚀
+⚡ Consistency beats talent when talent doesn't keep coding.
